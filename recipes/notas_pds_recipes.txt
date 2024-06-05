@@ -1,0 +1,1 @@
+Acá cambié el device a cpu en config.yaml.
